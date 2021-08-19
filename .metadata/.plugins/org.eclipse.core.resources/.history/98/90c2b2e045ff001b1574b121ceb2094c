@@ -1,0 +1,60 @@
+package com.app;
+
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+public class Main {
+	private static Logger log = Logger.getLogger(Main.class);
+	
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		log.info("               Online Shopping Application..!    ");
+		log.info("    **************************************************");
+		log.info(" 1) For customer login..!");
+		log.info(" 2) For Admin login..!");
+		
+		log.info("\n  Enter your choice....");
+		int ch = 0;
+		try {
+			ch = Integer.parseInt(scanner.nextLine());
+		}catch(NumberFormatException e) {
+			System.out.println(e);
+		}
+		if(ch==1) {
+			
+			log.info("              customer login/register     ");
+			log.info("        *********************************     ");
+			log.info("1)SignIn");
+			log.info("2)SignUp");
+			log.info("3)Forgot Password");
+			log.info("4)Back to main");
+			log.info("\nEnter your choice..");
+			int n ;
+			n = Integer.parseInt(scanner.nextLine());
+			switch(n) {
+			case 1:
+				log.info("Enter your Username: ");
+				log.info("Enter your password: ");
+				break;
+			case 2:
+				break;
+			case 3:
+				break;
+			default:
+				log.warn("Invalid choice..Enter number!");
+			}
+		}
+		
+		}
+			
+			
+		
+//		do {
+//			
+//		}
+
+	}
+
+

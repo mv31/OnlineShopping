@@ -1,0 +1,13 @@
+package com.app.customer.service;
+
+import com.app.exception.BusinessException;
+import com.app.model.Customer;
+
+public interface CustomerService {
+	public static int validateCustomerSignup(Customer customer) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}

@@ -1,0 +1,25 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import com.app.dao.CustomerDAO;
+import com.app.dao.dbutil.MySqlDbConnection;
+import com.app.exception.BusinessException;
+import com.app.model.Customer;
+
+public class CustomerDAOImpl implements CustomerDAO {
+
+	@Override
+	public int createCustomer(Customer customer) throws BusinessException {
+	try(Connection connection  = MySqlDbConnection.getConnection()){
+		String sql = "insert into customer(cusid,name,newEmail,newPassword,newPhnumber) values (?,?,?,?,?)";
+		PreparedStatement preparedstatement = connection.prepareStatement(sql);
+	}catch(SQLException | ClassNotFoundException e) {
+		throw new BusinessException();
+		}
+		return 0;
+	}
+
+}

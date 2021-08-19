@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\ShoppingOnline\.metadata\.plugins\org.eclipse.jdt.core
+3811197017.index
+3298646548.index
+1815816921.index
+1323739029.index
+812423934.index

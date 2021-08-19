@@ -1,0 +1,17 @@
+package com.app.model;
+
+public class Customer {
+	private String newName;
+	private int cusId;
+	private String newEmail;
+	private String rePassword;
+	private long newPhnumber;
+	
+	public Customer() {
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
+	
+}
