@@ -632,3 +632,156 @@ Enter your choice..
 [main] 2021-08-19 11:26:23 INFO  com.app.Main  - 
 Enter your choice..
 [main] 2021-08-19 11:26:43 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 15:32:15 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 15:32:15 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 15:32:15 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 15:32:15 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 15:32:15 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 15:32:18 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 15:32:22 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 15:32:32 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - Login Sucessfull
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  -             welcome manojm3@nf.com          
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - ==============================
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - 1) View Items
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - 2) Add Items in Cart
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - 3) Delete Items in Cart
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - 4) Submit Cart
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  - 5) exit
+[main] 2021-08-19 15:32:35 INFO  com.app.Main  -  Enter your Choice
+[main] 2021-08-19 15:32:40 WARN  com.app.Main  - com.app.exception.BusinessException: Internal error occured, please contact support
+[main] 2021-08-19 15:33:19 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 15:33:19 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 15:33:19 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 15:33:19 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 15:33:19 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 15:33:25 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 15:33:29 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 15:33:35 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - Login Sucessfull
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  -             welcome njnj@hh.com          
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - ==============================
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - 1) View Items
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - 2) Add Items in Cart
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - 3) Delete Items in Cart
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - 4) Submit Cart
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  - 5) exit
+[main] 2021-08-19 15:33:37 INFO  com.app.Main  -  Enter your Choice
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0, quantity=8, desc=null]
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0, quantity=10, desc=null]
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0, quantity=150, desc=null]
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0, quantity=250, desc=null]
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0, quantity=10, desc=null]
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  -             welcome njnj@hh.com          
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - ==============================
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - 1) View Items
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - 2) Add Items in Cart
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - 3) Delete Items in Cart
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - 4) Submit Cart
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  - 5) exit
+[main] 2021-08-19 15:33:45 INFO  com.app.Main  -  Enter your Choice
+[main] 2021-08-19 16:35:36 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:35:36 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:35:36 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:35:36 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:35:36 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:35:44 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:36:15 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:36:28 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:36:33 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  -                 welcome  User        
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  -       ==============================
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  - 1) View Items
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  - 2) Add Items in Cart
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  - 3) Delete Items in Cart
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  - 4) Submit Cart
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  - 5) exit
+[main] 2021-08-19 16:36:33 INFO  com.app.Main  -  Enter your Choice
+[main] 2021-08-19 16:41:58 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:41:58 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:41:58 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:41:58 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:41:58 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:42:03 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:42:07 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:42:21 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:42:26 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:42:26 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:42:46 INFO  com.app.Main  - Email: 
+[main] 2021-08-19 16:43:12 INFO  com.app.Main  - Password
+[main] 2021-08-19 16:43:20 INFO  com.app.Main  - ReEnter your Password 
+[main] 2021-08-19 16:43:24 INFO  com.app.Main  - Name: 
+[main] 2021-08-19 16:43:28 INFO  com.app.Main  - Phone Number: 
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - Account Created Sucessfully
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:43:34 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:44:41 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:44:41 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:44:41 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:44:41 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:44:41 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:44:47 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:44:58 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:45:17 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:45:22 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:45:22 INFO  com.app.Main  - 
+Enter your choice..

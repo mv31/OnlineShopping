@@ -1,6 +1,7 @@
 package com.app.dao.impl;
 
 import java.sql.Connection;
+
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -11,9 +12,9 @@ import com.app.dao.ProductDAO;
 import com.app.dao.dbutil.MySqlDbConnection;
 import com.app.exception.BusinessException;
 
-//import com.app.model.Player;
 import com.app.model.Product;
-//import com.app.model.Team;
+
+
 
 public class ProductDAOImpl implements ProductDAO{
 @Override
@@ -21,7 +22,7 @@ public class ProductDAOImpl implements ProductDAO{
 		// TODO Auto-generated method stub
 		List<Product> ProductList =new ArrayList<>();
 		try(Connection connection=MySqlDbConnection.getConnection()){
-			String sql="select p.productId,name,category,price,quantity from product ";
+			String sql="select productId,name,category,price,quantity from product ";
 			PreparedStatement preparedStatement=connection.prepareStatement(sql);
 			ResultSet resultSet=preparedStatement.executeQuery();
 			while(resultSet.next())
@@ -46,6 +47,28 @@ public class ProductDAOImpl implements ProductDAO{
 @Override
 	public Product getById(int id) {
 		// TODO Auto-generated method stub
+	Product product = null;
+	try(Connection connection=MySqlDbConnection.getConnection()){
+		String sql="select p.productId,name,category,price,?";
+		PreparedStatement preparedStatement=connection.prepareStatement(sql);
+		preparedStatement.setInt(1, id);
+		ResultSet resultSet=preparedStatement.executeQuery();
+		if(resultSet.next()) {
+			product=new Product();
+			product.setProductId(id);
+			product.setName(resultSet.getString("name"));
+			product.setCategory(resultSet.getString("city"));
+			product.setPrice(resultSet.getDouble("price"));
+		}else {
+			throw new BusinessException("Entered player id "+id+" doesnt exist");
+		}
+	 }catch (ClassNotFoundException | SQLException e) {
+		log.error(e);
+		throw new BusinessException("Internal error occured contact sysadmin");
+	
+	return product;
+}
+
 		return null;
 	}
 

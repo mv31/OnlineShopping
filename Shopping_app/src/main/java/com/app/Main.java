@@ -1,13 +1,20 @@
 package com.app;
 
+import java.util.List;
 import java.util.Scanner;
+
 
 import org.apache.log4j.Logger;
 
 import com.app.customer.service.CustomerService;
 import com.app.exception.BusinessException;
 import com.app.model.Customer;
+import com.app.model.Product;
+import com.app.product.service.ProductService;
+import com.app.product.service.impl.ProductServiceImpl;
 import com.app.customer.service.impl.CustomerServiceImpl;
+import com.app.dao.ProductDAO;
+import com.app.dao.impl.ProductDAOImpl;
 
 public class Main {
 	private static Logger log = Logger.getLogger(Main.class);
@@ -25,6 +32,7 @@ public class Main {
 		}catch(NumberFormatException e) {
 		}
 		//do {
+		
 		  if(ch==1) {
 			int n = 0;
 			do {	
@@ -37,32 +45,46 @@ public class Main {
 				log.info("\nEnter your choice..");
 				
 			try {	
-				n = (scanner.nextInt());
+				n = Integer.parseInt(scanner.nextLine());
 			}catch(NumberFormatException e ) {		
 				}
 			
 			switch(n) {
 			case 1:	
+				try {
 				   log.info("Enter your email: ");
-				   String eMail = scanner.next();
+				   String eMail = scanner.nextLine();
 				   log.info("Enter your password: ");
-				   String passWord = scanner.next();
-				   if(eMail.matches("^[a-zA-Z0-9+_.-]+@[a-zA-Z.]+$"))
-				   {		
-					log.info("Login Sucessfull");
-				   }else {
-					log.info("Enter a valid email Address");
+				   String passWord = scanner.nextLine();
+				   CustomerService customerService = new CustomerServiceImpl();
+				   Customer customer = customerService.validateSignin(eMail, passWord);
+				   log.info(customer);
+				   if(customer == null) {
+				   throw new BusinessException("User not found/or Sign Up");
 				   }
-				  
+				}catch(BusinessException e) {
+					 e.printStackTrace();
+					 continue;
+				   }
+			
+				
+				
+			
+				
+					   
+				   
+				   int c = 0;
 				   do {
-					   int c = 0;
-				     log.info("            welcome "+ eMail +  "          "      );
-				     log.info(       "==============================");
+					   
+				     log.info("                welcome  User        "             );
+				     log.info( "      ==============================");
 				     log.info("1) View Items");
 				     log.info("2) Add Items in Cart");
 				     log.info("3) Delete Items in Cart");
 				     log.info("4) Submit Cart");
-				     log.info("5) Enter your Choice");
+				     log.info("5) exit");
+				     log.info(" Enter your Choice");
+				     
 				     try {
 				    	 c=Integer.parseInt(scanner.next());
 				     }catch(NumberFormatException e) {
@@ -70,19 +92,31 @@ public class Main {
 				     }
 				     switch(c) {
 				     case 1:
+				    	 ProductService productDao = new ProductServiceImpl();
+				    	 List<Product> allProduct=null;
+				    	 
+						try {
+							allProduct = productDao.getAllProducts();
+						} catch (BusinessException e) {
+							// TODO Auto-generated catch block
+							log.warn(e);
+						}
+				    	 for(Product p:allProduct) {
+				    		 log.info(p);
+				    	 }
 				    	 
 				     }
 				    	 
-				     }while(c!=);
+				     }while(c!=5);
 				     		
 			break;
 			case 2:					
 				int result = 400;
 				Customer customer = new Customer();
 				log.info("Email: " ); 
-				String newEmail = scanner.next();
+				String newEmail = scanner.nextLine();
 				log.info("Password");
-				String newPassword = scanner.next();
+				String newPassword = scanner.nextLine();
 				log.info("ReEnter your Password ");
 				String rePassword = scanner.next();
 				log.info("Name: ");

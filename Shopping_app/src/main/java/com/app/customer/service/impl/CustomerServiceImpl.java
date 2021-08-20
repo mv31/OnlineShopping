@@ -18,6 +18,16 @@ public class CustomerServiceImpl implements CustomerService {
 		}
 	
 	}
+	@Override
+	public Customer validateSignin(String eMail, String passWord) throws BusinessException {
+		 if(eMail.matches("^[a-zA-Z0-9+_.-]+@[a-zA-Z.]+$"))
+		   {		
+			return customerDAO.validateSignin(eMail, passWord);
+		   }else {
+			   throw new BusinessException("InValid email address");
+		   }
+		
+	}
 	
 	
 
