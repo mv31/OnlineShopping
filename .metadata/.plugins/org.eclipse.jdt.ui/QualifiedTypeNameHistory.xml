@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.app.model.User"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.app.dao.dbutil.MySqlDbConnection"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.app.model.Customer"/>
+<fullyQualifiedTypeName name="com.app.dao.impl.CustomerDAOImpl"/>
+<fullyQualifiedTypeName name="com.app.dao.CustomerDAO"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.app.model.Player"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.app.dao.impl.ProductDAOImpl"/>
+<fullyQualifiedTypeName name="com.app.dao.ProductDAO"/>
+<fullyQualifiedTypeName name="com.app.product.service.ProductService"/>
+<fullyQualifiedTypeName name="com.app.product.service.impl.ProductServiceImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.app.model.Product"/>
+<fullyQualifiedTypeName name="com.app.customer.service.CustomerService"/>
+<fullyQualifiedTypeName name="com.app.customer.service.impl.CustomerServiceImpl"/>
+<fullyQualifiedTypeName name="com.app.exception.BusinessException"/>
+</qualifiedTypeNameHistroy>

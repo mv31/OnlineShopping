@@ -1,22 +1,14 @@
 package com.app.model;
 
 public class Cart {
-	private int cartId;
+	
 	private int cusId;
 	private int productId;
-	private int cusQuantity;
-	private double price;
-	private double subTotal;
-	private String desc;
-	private Customer customer;
+	private int Quantity;
+
 	private Product product;
 	
-	public Customer getCustomer() {
-		return customer;
-	}
-	public void setCustomer(Customer customer) {
-		this.customer = customer;
-	}
+	
 	public Product getProduct() {
 		return product;
 	}
@@ -27,12 +19,7 @@ public class Cart {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public int getCartId() {
-		return cartId;
-	}
-	public void setCartId(int cartId) {
-		this.cartId = cartId;
-	}
+	
 	public int getCusId() {
 		return cusId;
 	}
@@ -45,29 +32,25 @@ public class Cart {
 	public void setProductId(int productId) {
 		this.productId = productId;
 	}
-	public int getCusQuantity() {
-		return cusQuantity;
+	public int getQuantity() {
+		return Quantity;
 	}
-	public void setCusQuantity(int cusQuantity) {
-		this.cusQuantity = cusQuantity;
+	public void setQuantity(int cusQuantity) {
+		this.Quantity = cusQuantity;
 	}
-	public double getPrice() {
-		return price;
+	public Cart(int cusId, int productId, int quantity, Product product) {
+		super();
+		this.cusId = cusId;
+		this.productId = productId;
+		Quantity = quantity;
+		this.product = product;
 	}
-	public void setPrice(double price) {
-		this.price = price;
+	@Override
+	public String toString() {
+		return "Cart [cusId=" + cusId + ", productId=" + productId + ", Quantity=" + Quantity + ", product=" + product
+				+ "]";
 	}
-	public double getSubTotal() {
-		return subTotal;
+	
 	}
-	public void setSubTotal(double subTotal) {
-		this.subTotal = subTotal;
-	}
-	public String getDesc() {
-		return desc;
-	}
-	public void setDesc(String desc) {
-		this.desc = desc;
-	}
+	
 
-}

@@ -1,0 +1,67 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+
+
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+
+import com.app.dao.CustomerDAO;
+import com.app.dao.dbutil.MySqlDbConnection;
+import com.app.exception.BusinessException;
+import com.app.model.Customer;
+
+public class CustomerDAOImpl implements CustomerDAO {
+	private static Logger log = Logger.getLogger(CustomerDAOImpl.class);
+
+	@Override
+	public int createCustomer(Customer customer) throws BusinessException {
+		//Customer customer = null;
+	try(Connection connection  = MySqlDbConnection.getConnection()){
+		int c;
+		String sql = "insert into customer(cusid,name,newEmail,newPassword,newPhnumber) values (?,?,?,?,?)";
+		PreparedStatement preparedStatement = connection.prepareStatement(sql);
+		preparedStatement.setInt(1, customer.getCusId());
+		preparedStatement.setString(2, customer.getNewName());
+		preparedStatement.setString(3, customer.getNewEmail());
+		preparedStatement.setString(4, customer.getRePassword());
+		preparedStatement.setLong(5, customer.getNewPhnumber());
+		c=preparedStatement.executeUpdate();
+	}catch(SQLException | ClassNotFoundException e) {
+		throw new BusinessException("Internal error occured contact system admin");
+		}
+		return 200;
+	}
+
+	@Override
+	public List<Customer> validateSignin(String eMail, String passWord) throws BusinessException {
+		List<Customer> cusList = new ArrayList<>();
+		try(Connection connection  = MySqlDbConnection.getConnection()){
+			
+			
+			String sql = "select cusId,name,newEmail from customer where newEmail = ? and newPassword = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			ResultSet resultSet=preparedStatement.executeQuery();
+			preparedStatement.setString(1, eMail);
+			preparedStatement.setString(2, passWord);
+				Customer customer = new Customer();
+				customer.setCusId(resultSet.getInt("cusid"));
+				customer.setNewName(resultSet.getString("name"));
+				customer.setNewPhnumber(resultSet.getInt("newEmail"));
+				customer.setRePassword(resultSet.getString("rePassword") );
+				cusList.add(customer);
+			
+			
+		}catch(SQLException | ClassNotFoundException e) {
+			log.error(e);
+			throw new BusinessException("Internal error occured contact system admin");
+			}
+		return cusList;
+	}
+
+}

@@ -1,11 +1,13 @@
 package com.app.dao;
 
+import java.util.List;
+
 import com.app.exception.BusinessException;
 import com.app.model.Customer;
 
 public interface CustomerDAO {
-	public int createCustomer(Customer customer) throws BusinessException;
-	public Customer validateSignin(String email,String passWord) throws BusinessException;
-	
+	public List<Customer> signIn(String Email, String Password) throws BusinessException;
+	public Customer signUp(Customer customer) throws BusinessException;
+
 
 }

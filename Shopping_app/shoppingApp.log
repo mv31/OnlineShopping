@@ -785,3 +785,1427 @@ Enter your choice..
 [main] 2021-08-19 16:45:22 INFO  com.app.Main  - 4)Back to main
 [main] 2021-08-19 16:45:22 INFO  com.app.Main  - 
 Enter your choice..
+[main] 2021-08-19 16:47:23 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:47:23 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:47:23 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:47:23 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:47:23 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:47:27 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:47:29 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:47:40 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:47:44 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:47:44 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:48:22 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:48:27 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:48:30 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:48:30 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:49:33 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:49:33 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:49:33 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:49:33 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:49:33 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:49:40 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:49:42 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:49:45 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:49:48 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:49:48 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:50:56 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:50:56 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:50:56 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:50:56 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:50:56 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:51:04 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:51:12 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:51:15 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:51:18 WARN  com.app.Main  - Invalid credentials/signup
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:51:18 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:52:19 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:52:19 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:52:19 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:52:19 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:52:19 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:52:24 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:52:26 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:52:29 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:52:31 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:52:42 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:52:57 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:53:02 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:54:54 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:54:54 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:54:54 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:54:54 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:54:54 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:54:58 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:55:01 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:55:17 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:55:23 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:57:46 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:57:46 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:57:46 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:57:46 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:57:46 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:57:51 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:57:52 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 16:58:02 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 16:58:06 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 16:59:57 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-19 16:59:57 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-19 16:59:57 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-19 16:59:57 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-19 16:59:57 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 17:00:00 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-19 17:00:05 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-19 17:00:16 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-19 17:00:20 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 10:49:39 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-20 10:49:39 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-20 10:49:39 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-20 10:49:39 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-20 10:49:39 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 10:49:42 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 10:49:45 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-20 10:50:01 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 10:50:09 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 14:14:42 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-20 14:14:42 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-20 14:14:42 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-20 14:14:42 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-20 14:14:42 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 14:14:48 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 14:14:50 INFO  com.app.Main  - Email: 
+[main] 2021-08-20 14:15:00 INFO  com.app.Main  - Password
+[main] 2021-08-20 14:15:02 INFO  com.app.Main  - ReEnter your Password 
+[main] 2021-08-20 14:15:05 INFO  com.app.Main  - Name: 
+[main] 2021-08-20 14:15:07 INFO  com.app.Main  - Phone Number: 
+[main] 2021-08-20 14:15:10 WARN  com.app.Main  - Invalid email or password
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 14:15:10 INFO  com.app.Main  - Email: 
+[main] 2021-08-20 15:52:55 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-20 15:52:55 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-20 15:52:55 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-20 15:52:55 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-20 15:52:55 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 15:53:01 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-20 15:53:09 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-20 15:53:18 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-20 15:53:22 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 11:56:45 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-21 11:56:45 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-21 11:56:45 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:56:45 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:56:45 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:56:54 INFO  com.app.Main  -                Online Shopping Application..!    
+[main] 2021-08-21 11:56:54 INFO  com.app.Main  -     **************************************************
+[main] 2021-08-21 11:56:54 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:56:54 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:56:54 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:57:20 INFO  com.app.Main  -           Online Shopping Application..!    
+[main] 2021-08-21 11:57:20 INFO  com.app.Main  -     ****************************************
+[main] 2021-08-21 11:57:20 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:57:20 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:57:20 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:57:36 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 11:57:36 INFO  com.app.Main  -     ****************************************
+[main] 2021-08-21 11:57:36 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:57:36 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:57:36 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:58:04 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 11:58:04 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 11:58:04 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:58:04 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:58:04 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  -        User Login  
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:59:11 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  - 1)For customer login
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:59:26 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  - 
+1)For customer login
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  - 2)For Admin login
+[main] 2021-08-21 11:59:47 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  -   2)Admin login
+[main] 2021-08-21 12:00:08 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:00:19 INFO  com.app.Main  - 
+Enter your choice....
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:00:32 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:01:44 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  - 3)Forgot Password
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:01:48 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:02:06 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:02:08 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:02:56 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-21 12:03:23 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:03:27 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:09:51 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:09:56 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:10:44 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-21 12:10:56 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:11:00 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:55:35 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:55:37 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:55:39 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-21 12:55:51 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-21 12:55:55 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:55:55 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 12:58:17 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:58:20 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 12:58:21 INFO  com.app.Main  - Enter your email: 
+[main] 2021-08-21 12:58:32 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-21 12:58:35 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLException: No value specified for parameter 1
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 12:58:35 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 13:10:56 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 13:10:59 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 13:11:01 INFO  com.app.Main  - SignIn
+[main] 2021-08-21 13:11:01 INFO  com.app.Main  - /nEnter your email: 
+[main] 2021-08-21 13:11:18 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  -           **Online Shopping Application**    
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  -        *************************************
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  -                    User Login  
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  - 
+1)customer login
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  - 2)Admin login
+[main] 2021-08-21 13:12:25 INFO  com.app.Main  - 
+Enter your choice: 
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 13:12:28 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 13:12:34 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  -               customer login/register     
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  -         *********************************     
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  - 1)SignIn
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  - 2)SignUp
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  - 3)Forgot Password?
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  - 4)Back to main
+[main] 2021-08-21 13:12:35 INFO  com.app.Main  - 
+Enter your choice..
+[main] 2021-08-21 13:12:42 INFO  com.app.Main  - SignIn
+[main] 2021-08-21 13:12:42 INFO  com.app.Main  - /nEnter your email: 
+[main] 2021-08-21 13:12:46 INFO  com.app.Main  - Enter your password: 
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:25:35 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:35:02 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:35:16 INFO  com.app.Main  - Register by using your First name, Last name, Email and Password
+[main] 2021-08-23 00:35:16 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 00:35:24 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 00:35:51 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 00:35:57 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 00:36:03 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'name' in 'field list'
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:36:03 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:37:38 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:37:43 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 00:37:43 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 00:37:53 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:38:03 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:38:09 INFO  com.app.Main  - Register by using your First name, Last name, Email and Password
+[main] 2021-08-23 00:38:09 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 00:38:22 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 00:38:32 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 00:38:35 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 00:38:39 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'newName' cannot be null
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:38:39 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:41:55 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:41:58 INFO  com.app.Main  - Register by using your First name, Last name, Email and Password
+[main] 2021-08-23 00:41:58 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 00:42:12 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 00:42:29 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 00:42:33 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 00:42:36 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'newEmail' cannot be null
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:42:36 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:49:00 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:49:06 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 00:49:06 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 00:49:44 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 00:49:47 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'eMail' in 'field list'
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:54:13 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:54:17 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 00:54:17 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 00:54:36 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - SignIn Unsuccessfull
+[main] 2021-08-23 00:54:40 ERROR com.app.Main  - com.app.exception.BusinessException: You are not an existing cutomer.. kindly register first..
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:54:40 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:54:53 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 00:54:53 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 00:55:07 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 00:55:10 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLException: Column 'newName' not found.
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 00:59:08 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 00:59:31 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 00:59:31 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:02:17 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:02:21 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:02:21 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:02:39 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:02:55 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLException: Column 'newName' not found.
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:05:12 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:05:15 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:05:15 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:05:29 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:05:33 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 01:05:41 ERROR com.app.dao.impl.ProductAddDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'productName' in 'field list'
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:05:41 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:08:15 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:08:20 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:08:20 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:08:32 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:08:38 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:08:41 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:08:55 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 01:09:03 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 01:09:07 INFO  com.app.dao.impl.CartDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'custId' in 'field list'
+[main] 2021-08-23 01:09:07 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 01:09:07 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:09:07 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:18:28 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 01:18:37 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 01:18:40 INFO  com.app.dao.impl.CartDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'custId' in 'field list'
+[main] 2021-08-23 01:18:40 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 01:18:40 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:18:40 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:18:58 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:19:01 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:19:01 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:19:11 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:19:15 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:19:18 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:19:21 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 01:19:23 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 01:19:24 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 01:19:24 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:19:24 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - Going back
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:19:31 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:20:04 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:20:07 INFO  com.app.Main  - Enter the Product Id
+[main] 2021-08-23 01:20:10 ERROR com.app.dao.impl.ProductSearchDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'productName' in 'field list'
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:20:10 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:20:45 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:20:47 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:20:47 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:20:58 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:21:02 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:21:04 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:21:08 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 01:21:10 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 01:21:11 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 01:21:11 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 01:21:11 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - Going back
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:21:14 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:21:19 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:21:22 INFO  com.app.Main  - Enter the Product Name
+[main] 2021-08-23 01:21:35 ERROR com.app.dao.impl.ProductSearchDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'productName' in 'where clause'
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:21:35 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 01:22:02 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 01:22:05 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 01:22:05 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 01:22:14 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 01:22:17 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:22:20 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:22:23 INFO  com.app.Main  - Enter the Product Name
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:22:26 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 01:22:35 INFO  com.app.Main  - Enter the category
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 01:22:58 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 08:20:15 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 08:20:18 ERROR com.app.Main  - java.lang.NumberFormatException: For input string: ""
+[main] 2021-08-23 08:20:18 WARN  com.app.Main  - Invalid Option.... Choice should be numbers and 1-4 only.. kindly retry
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 08:20:18 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 08:20:25 INFO  com.app.Main  - Employee Authentication
+[main] 2021-08-23 08:20:25 INFO  com.app.Main  - 
+Enter Employee Username
+[main] 2021-08-23 08:21:04 INFO  com.app.Main  - Enter Employee Password
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - Employee LogIn Successfull...
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 
+Hello HariPrasanth, Select what you want to do?
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 1)Add a new Product
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 2)View Product List
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 3)View Ordered List
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 4)Shipping status
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - 5)Logout
+[main] 2021-08-23 08:21:08 INFO  com.app.Main  - Please select any one of the option 1-5 only
+[main] 2021-08-23 08:21:38 INFO  com.app.Main  - Give Product Details to Add a new product
+[main] 2021-08-23 08:21:38 INFO  com.app.Main  - Enter Product Name
+[main] 2021-08-23 08:21:51 INFO  com.app.Main  - Enter Product Price
+[main] 2021-08-23 08:21:56 INFO  com.app.Main  - Enter Product Ratings
+[main] 2021-08-23 08:22:06 ERROR com.app.dao.impl.ProductAddDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'prodName' cannot be null
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 
+Hello HariPrasanth, Select what you want to do?
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 1)Add a new Product
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 2)View Product List
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 3)View Ordered List
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 4)Shipping status
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - 5)Logout
+[main] 2021-08-23 08:22:06 INFO  com.app.Main  - Please select any one of the option 1-5 only
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 09:08:31 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 09:08:34 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 09:08:34 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 09:08:46 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 09:08:57 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 09:09:02 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 09:09:08 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 09:09:14 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 09:09:18 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 09:09:18 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 09:09:18 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - Going back
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 09:09:21 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 09:10:42 INFO  com.app.Main  - You can Place your orders here
+[main] 2021-08-23 09:10:42 INFO  com.app.Main  - 1)View Products in cart
+[main] 2021-08-23 09:10:42 INFO  com.app.Main  - 2)Place order
+[main] 2021-08-23 09:10:42 INFO  com.app.Main  - 3)Go Back..
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - Products which you added in cart
+[main] 2021-08-23 09:10:46 ERROR com.app.dao.impl.CartDAOImpl  - java.sql.SQLSyntaxErrorException: Unknown column 'p.prodId' in 'field list'
+[main] 2021-08-23 09:10:46 ERROR com.app.Main  - com.app.exception.BusinessException: There is some error in getting all products in the cart.. Please retry..
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 09:10:46 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 12:07:34 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 12:07:42 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 12:07:42 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 12:07:50 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 12:07:52 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 12:07:52 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 12:07:58 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 12:08:06 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 12:08:08 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 12:08:12 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'newEmail' cannot be null
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 12:08:12 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 12:13:48 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 12:13:52 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 12:13:52 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 12:13:54 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 12:13:58 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 12:14:02 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 12:14:06 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'newEmail' cannot be null
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 12:14:06 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:06:18 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:12:13 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:12:17 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 15:12:17 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 15:12:23 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 15:12:35 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 15:12:38 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 15:12:41 ERROR com.app.dao.impl.CustomerDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'newEmail' cannot be null
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:12:41 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:14:54 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:15:00 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 15:15:00 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 15:15:04 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 15:15:11 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 15:15:13 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 15:15:16 INFO  com.app.dao.impl.CustomerDAOImpl  - 1 row created successfully
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - Customer [newName=null, cusId=12, newEmail=null, newPassword=null, newPhnumber=0]
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - SignUp Successfully done...Now you can SignIn
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:15:16 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:21:49 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:21:54 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 15:21:54 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 15:21:58 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 15:22:05 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 15:22:07 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 15:22:11 INFO  com.app.dao.impl.CustomerDAOImpl  - 1 row created successfully
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - Customer [newName=null, cusId=14, newEmail=null, newPassword=null, newPhnumber=0]
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - SignUp Successfully done...Now you can SignIn
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:22:11 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:23:52 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:23:56 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 15:23:56 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 15:24:01 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 15:24:08 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 15:24:11 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 15:24:14 INFO  com.app.dao.impl.CustomerDAOImpl  - 1 row created successfully
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - Customer [newName=null, cusId=15, newEmail=null, newPassword=null, newPhnumber=0]
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - SignUp Successfully done...Now you can SignIn
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:24:14 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:51:54 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:52:02 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 15:52:02 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 15:52:18 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 15:52:22 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 15:52:27 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 15:52:32 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 15:52:51 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 15:52:53 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 15:52:53 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 15:52:53 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - Going back
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 15:53:36 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 15:53:38 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 15:53:41 INFO  com.app.Main  - Enter the Product Name
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 15:53:46 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 15:53:54 INFO  com.app.Main  - Enter the Product Id
+[main] 2021-08-23 15:53:55 ERROR com.app.dao.impl.ProductSearchDAOImpl  - java.sql.SQLException: Column 'productName' not found.
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - Entered product id 1 is found successfully
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - Product [productId=1, name=null, category=null, price=0.0]
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 15:53:55 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 15:54:41 INFO  com.app.Main  - Enter the Product Id
+[main] 2021-08-23 15:54:43 ERROR com.app.dao.impl.ProductSearchDAOImpl  - java.sql.SQLException: Column 'productName' not found.
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - Entered product id 1 is found successfully
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - Product [productId=1, name=null, category=null, price=0.0]
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 15:54:43 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:55:32 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 15:55:33 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 16:27:06 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:29:48 ERROR com.app.Main  - java.lang.NumberFormatException: For input string: ""
+[main] 2021-08-23 16:29:48 WARN  com.app.Main  - Invalid Option.... Choice should be numbers and 1-4 only.. kindly retry
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 16:29:48 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:29:52 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 16:29:52 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 16:30:01 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 16:30:07 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:30:11 INFO  com.app.Main  - Register by using your Name, Email, Password and Phone Number
+[main] 2021-08-23 16:30:11 INFO  com.app.Main  - Enter Customer Name
+[main] 2021-08-23 16:30:16 INFO  com.app.Main  - Enter Customer Email
+[main] 2021-08-23 16:30:25 INFO  com.app.Main  - Enter Customer Password
+[main] 2021-08-23 16:30:29 INFO  com.app.Main  - Enter Contact Number
+[main] 2021-08-23 16:30:36 INFO  com.app.dao.impl.CustomerDAOImpl  - 1 row created successfully
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - Customer [newName=null, cusId=16, newEmail=null, newPassword=null, newPhnumber=0]
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - SignUp Successfully done...Now you can SignIn
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 16:30:36 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:32:03 INFO  com.app.Main  - Thank You...Have a nice day :-)
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - Welcome to Shop World  Application
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - --------------------------------------
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - 
+MAIN MENU
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - 1) Customer Login
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - 2)Employee Login
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - 3)New user? Register Now..! 
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-23 16:32:08 INFO  com.app.Main  - Enter your choice among 1 to 4 
+[main] 2021-08-23 16:32:11 INFO  com.app.Main  - Customer Authentication
+[main] 2021-08-23 16:32:11 INFO  com.app.Main  - 
+Enter User Eamil
+[main] 2021-08-23 16:32:23 INFO  com.app.Main  - Enter User Password
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - SignIn Successfully done...
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 
+Welcome manojmv to Shop World :)
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - ----------------------------------------------------
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 16:32:26 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 16:32:45 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 16:32:58 ERROR com.app.Main  - java.lang.NumberFormatException: For input string: ""
+[main] 2021-08-23 16:32:58 WARN  com.app.Main  - Invalid Entry.... Enter values 1 or 2 only.. kindly retry
+[main] 2021-08-23 16:32:58 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 16:32:58 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - Going back
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 16:33:01 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 16:33:03 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 16:33:37 INFO  com.app.Main  - Enter the Product Id
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - Entered product id 3 is found successfully
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - Search filters for Products
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - 1)Filter By Product Id
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - 2)Filter By Product Name
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - 3)Filter By Product Price
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - 4)Filter By Product categories
+[main] 2021-08-23 16:33:45 INFO  com.app.Main  - 5)Previous Menu
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - You are in Previous menu
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 
+New and Exciting products are here
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 1)View all Products
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 2)Search Products
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 3)View Orders
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 4)View status
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - 5)SignOut
+[main] 2021-08-23 16:34:34 INFO  com.app.Main  - Please enter your option 1-5 only
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  -  Available Products to shop :>
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Product [productId=1, name=redm1 note 5, category=Mobiles, price=11000.0]
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Product [productId=2, name=gas stove, category=HomeAppliance, price=3500.0]
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Product [productId=3, name=trimmer, category=electronics, price=2000.0]
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Product [productId=4, name=t shirt, category=wardrobes, price=500.0]
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Product [productId=5, name=boat earphone, category=electronics, price=1200.0]
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - Add Products to Cart to place orders
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 16:34:39 INFO  com.app.Main  - 2)Go Back
+[main] 2021-08-23 16:34:43 INFO  com.app.Main  - Enter the Product Id to Add it in cart
+[main] 2021-08-23 16:34:49 INFO  com.app.Main  - Enter Quantity
+[main] 2021-08-23 16:34:54 INFO  com.app.Main  - Product successfully added in cart
+[main] 2021-08-23 16:34:54 INFO  com.app.Main  - 1)Add to Cart
+[main] 2021-08-23 16:34:54 INFO  com.app.Main  - 2)Go Back

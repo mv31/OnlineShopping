@@ -1,0 +1,45 @@
+package com.app.customer.service.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.app.customer.service.CustomerService;
+import com.app.dao.CustomerDAO;
+import com.app.dao.impl.CustomerDAOImpl;
+import com.app.exception.BusinessException;
+import com.app.model.Customer;
+
+public class CustomerServiceImpl implements CustomerService {
+	private CustomerDAO customerDAO = new CustomerDAOImpl();
+	@Override
+   public  int validateCustomerSignup(Customer customer) throws BusinessException {
+		if(customer.getNewEmail().matches("^[a-zA-Z0-9+_.-]+@[a-zA-Z.]+$")) {
+			return customerDAO.createCustomer(customer);
+		}
+		else {
+			throw new BusinessException("invalid email id");
+		}
+	
+	}
+	@Override
+	public String validateSignin(String eMail, String passWord) throws BusinessException {
+		List<Customer> cusList = new ArrayList<>();
+		String existingUser;
+		
+		 if(eMail.matches("^[a-zA-Z0-9+_.-]+@[a-zA-Z.]+$"))
+		   {		
+			 cusList = customerDAO.validateSignin(eMail, passWord); 
+			 if(cusList.isEmpty()) {
+				 throw new BusinessException("Not an user register to sign in..!")
+			 }else {
+				 existingUser = "Login successfull";
+			 }
+		  }else {
+			   throw new BusinessException("InValid email address");
+		   }
+		
+	}
+	
+	
+
+}

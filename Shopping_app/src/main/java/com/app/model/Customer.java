@@ -4,9 +4,13 @@ public class Customer {
 	private String newName;
 	private int cusId;
 	private String newEmail;
-	private String rePassword;
+	private String newPassword;
 	private long newPhnumber;
 	
+	public Customer(String name, String email, String password, long phnumber) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public Customer() {
 		// TODO Auto-generated constructor stub
 	}
@@ -27,6 +31,15 @@ public class Customer {
 		this.cusId = cusId;
 	}
 
+//	public Customer(String newName, int cusId, String newEmail, String newPassword, long newPhnumber) {
+//		super();
+//		this.newName = newName;
+//		this.cusId = cusId;
+//		this.newEmail = newEmail;
+//		this.newPassword = newPassword;
+//		this.newPhnumber = newPhnumber;
+//	}
+
 	public String getNewEmail() {
 		return newEmail;
 	}
@@ -35,12 +48,12 @@ public class Customer {
 		this.newEmail = newEmail;
 	}
 
-	public String getRePassword() {
-		return rePassword;
+	public String getNewPassword() {
+		return newPassword;
 	}
 
-	public void setRePassword(String rePassword) {
-		this.rePassword = rePassword;
+	public void setNewPassword(String newPassword) {
+		this.newPassword = newPassword;
 	}
 
 	public long getNewPhnumber() {
@@ -53,10 +66,11 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return "Customer [newName=" + newName + ", cusId=" + cusId + ", newEmail=" + newEmail + ", rePassword="
-				+ rePassword + ", newPhnumber=" + newPhnumber + "]";
+		return "Customer [newName=" + newName + ", cusId=" + cusId + ", newEmail=" + newEmail + ", newPassword="
+				+ newPassword + ", newPhnumber=" + newPhnumber + "]";
 	}
 
+	
 	
 	
 	

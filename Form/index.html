@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Student Registration</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <script type="text/javascript">
+        function validate()
+        {
+            var useremail = document.getElementById("email");
+            var password = document.getElementById("pass");
+
+            if(useremail.value =="" || password.value =="")
+            {
+                alter("entry is empty");
+                return false;
+            }
+            else
+            {
+                true;
+            }
+
+        }
+        </script>
+        
+    </head>
+    <body>
+    <div class="index">
+    <div class="register">
+    <div id="error"></div>
+        <h1>Register User</h1>
+        <form onsubmit="return validate()" id="=register" action="wel.html">
+
+            <label for="">FirstName :</label>
+            <input type="text" placeholder="Enter First Name" id="name" required><br> <br>
+
+            <label for=""> LastName:</label> 
+            <input id="email"  type="text" placeholder="Enter Last Name" ><br><br>
+
+            <label for="">Email Id :</label>
+            <input type="text" placeholder="Enter Your Mail" id="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.9.-]+\.[a-z]{2,}$" ><br> <br>
+
+            <label for="">Date Of Birth :</label>
+            <select name="month" id="" required>
+                <option value="jan">Jan</option>
+                <option value="feb">Feb</option>
+                <option value="mar">Mar</option>
+                <option value="apr">Apr</option>
+                <option value="may">May</option>
+                <option value="jun">Jun</option>
+                <option value="july">July</option>
+                <option value="aug">Aug</option>
+                <option value="sep">Sep</option>
+                <option value="oct">Oct</option>
+                <option value="nov">Nov</option>
+                <option value="dec">Dec</option>  
+            </select>
+            <select name="day" id="" required>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+                <option value="20">20</option>
+                <option value="21">21</option>
+                <option value="22">22</option>
+                <option value="23">23</option>
+                <option value="24">24</option>
+                <option value="25">25</option>
+                <option value="26">26</option>
+                <option value="27">27</option>
+                <option value="28">28</option>
+                <option value="29">29</option>
+                <option value="30">30</option>
+                <option value="31">31</option>
+            </select>
+            <input type="text" placeholder="Year" required><br> <br>
+
+            <label for=""> Gender:</label> 
+
+            <input type="radio" name="gender" id="male"> 
+            <span id = "male" >Male</span> &nbsp;&nbsp;
+
+            <input type="radio" name="gender" id="female">
+            <span id = "female" >Female</span> <br><br>
+
+            
+            <label for="">Languages Known :</label>
+            <input type="checkbox" name="lang" id="tamil">
+            <span id = "tamil" >Tamil</span>  &nbsp;&nbsp;
+
+            <input type="checkbox" name="lang" id="english">
+            <span id = "english" >English</span> &nbsp;&nbsp;
+
+            <input type="checkbox" name="lang" id="hindi">
+            <span id = "hindi" >Hindi</span> <br><br>
+
+            <label for="">PassWord :</label>
+            <input type="password" placeholder="Enter a Password" id="pass" ><br> <br>
+
+            <button type="submit" >Submit</button>
+
+        </form>
+    </div>    
+    </div>    
+    </body>
+</html>

@@ -1,9 +1,0 @@
-
-package com.app.product.service;
-
-import com.app.exception.BusinessException;
-
-public interface ProductService {
-	public List<Product> getAllProducts() throws BusinessException;
-
-}

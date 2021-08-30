@@ -1,0 +1,50 @@
+package com.app.model;
+
+public class Order {
+	private int orderId;
+	private int cusId;
+	private int productId;
+	private int totalPrice;
+	
+	public Order() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public int getOrderId() {
+		return orderId;
+	}
+	public void setOrderId(int orderId) {
+		this.orderId = orderId;
+	}
+	public int getCusId() {
+		return cusId;
+	}
+	public void setCusId(int cusId) {
+		this.cusId = cusId;
+	}
+	public int getProductId() {
+		return productId;
+	}
+	public void setProductId(int productId) {
+		this.productId = productId;
+	}
+	public int getTotalPrice() {
+		return totalPrice;
+	}
+	public void setTotalPrice(int totalPrice) {
+		this.totalPrice = totalPrice;
+	}
+	public Order(int orderId, int cusId, int productId, int totalPrice) {
+		super();
+		this.orderId = orderId;
+		this.cusId = cusId;
+		this.productId = productId;
+		this.totalPrice = totalPrice;
+	}
+	@Override
+	public String toString() {
+		return "Order [orderId=" + orderId + ", cusId=" + cusId + ", productId=" + productId + ", totalPrice="
+				+ totalPrice + "]";
+	}
+
+}

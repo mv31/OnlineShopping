@@ -1,0 +1,46 @@
+package com.app.dao.impl;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.app.dao.OrderDAO;
+import com.app.dao.dbutil.MySqlDbConnection;
+import com.app.exception.BusinessException;
+import com.app.model.Order;
+
+public class OrderDAOImpl implements OrderDAO{
+
+	@Override
+	public List<Order> getOrderList(int cId) throws BusinessException {
+		// TODO Auto-generated method stub
+		List<Order> orderList = new ArrayList<>();
+		try (Connection connection = MySqlDbConnection.getConnection()) {
+			String sql = "select orderId, customerId, productId, productName, category, cost, orderStatus from `revature_project_1`.`order` where customerId = ?";
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setInt(1, cId);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			while(resultSet.next()) {
+				Order order = new Order();
+				order.setOrderId(resultSet.getInt("orderId"));
+				order.setCusId(resultSet.getInt("customerId"));
+				order.setProductId(resultSet.getInt("productId"));
+				order.setProdName(resultSet.getString("prodName"));
+				order.setCategory(resultSet.getString("category"));
+				order.setTotalPrice(resultSet.getDouble("totalPrice"));
+				
+			
+				orderList.add(order);
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			log.error(e);
+		}
+		return orderList;
+		return null;
+	}
+	
+
+}

@@ -2,15 +2,18 @@ package com.app.model;
 
 	public class Product {
 		private int productId;
-		private String name;
+		private String prodName;
 		private String category;
 		private double price;
-		private int quantity;
-		private String desc;
+		
 		
 
 		public Product() {
 			super();
+			// TODO Auto-generated constructor stub
+		}
+
+		public Product(String productName, double price2, String category2) {
 			// TODO Auto-generated constructor stub
 		}
 
@@ -22,12 +25,12 @@ package com.app.model;
 			this.productId = productId;
 		}
 
-		public String getName() {
-			return name;
+		public String getProdName() {
+			return prodName;
 		}
 
-		public void setName(String name) {
-			this.name = name;
+		public void setProdName(String name) {
+			this.prodName = name;
 		}
 
 		public String getCategory() {
@@ -46,25 +49,11 @@ package com.app.model;
 			this.price = price;
 		}
 
-		public int getQuantity() {
-			return quantity;
-		}
-
-		public void setQuantity(int quantity) {
-			this.quantity = quantity;
-		}
-
-		public String getDesc() {
-			return desc;
-		}
-
-		public void setDesc(String desc) {
-			this.desc = desc;
-		}
+		
 		@Override
 		public String toString() {
-			return "Product [productId=" + productId + ", name=" + name + ", category=" + category + ", price=" + price
-					+ ", quantity=" + quantity + ", desc=" + desc + "]";
+			return "Product [productId=" + productId + ", name=" + prodName + ", category=" + category + ", price=" + price
+					+ "]";
 		}
 
 		
