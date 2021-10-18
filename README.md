@@ -15,7 +15,7 @@ TECHNOLOGIES
 
 FEATURES
 -------------------------------
-* In this project Iam  using various technologies to develop this product.
-* In this app as a employee, we have to see the customer list,add a product,delete a product and update status of product.
-* As a Customer,we have to see the products,add the item in cart,place the order,view order and also give the deliver acknowledgement.
-* Sum Test cases are also implemented. 
+* In this project I used the technologies mentioned above to develop this product.
+* In this app as a employee, he can able to see the customer list, add a product,delete a product and update status of product.
+* As a Customer,he can able to see the products,add the item in cart,place the order,view order and also give the deliver acknowledgement.
+* Some Test cases are also implemented. 
